@@ -1,9 +1,8 @@
 # Shreya's Portfolio
 
-<img src= "Plots/1.png" width = '700'>
-<img src= "Plots/2.png" width = '500'>
+
 <img src= "Plots/3.png" width = '500'>
-<img src= "Plots/4.png" width = '500'>
+
 
 
 # Data Science/Machine Learning Projects:
