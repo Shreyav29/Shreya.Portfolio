@@ -1,6 +1,6 @@
 # Shreya's Portfolio
 
-<img src= "Plots/13.png" width = '500'>
+<img src= "Plots/1.png" width = '500'>
 
 
 # Data Science/Machine Learning Projects:
