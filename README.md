@@ -1,7 +1,7 @@
 # Shreya's Portfolio
 
 
-<img src= "Plots/5.png" width = '700'>
+<img src= "Plots/5.png" width = '600'>
 
 
 
